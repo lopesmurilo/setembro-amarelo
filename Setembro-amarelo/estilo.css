@@ -1,0 +1,15 @@
+body{
+    background-color: #fef8cd;
+    margin: 0;
+}
+.logo{
+    width: 100%;
+    zoom: 1.2;
+}
+div{background-color: white;
+width: 80%;
+padding: 5%;
+margin: auto;
+border-radius: 15;
+border: 2px dashed yellow;
+}
